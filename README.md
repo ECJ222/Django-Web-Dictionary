@@ -1,2 +1,0 @@
-# Django-Dictionary
-# Django-Dictionary

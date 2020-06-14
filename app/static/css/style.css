@@ -1,0 +1,97 @@
+
+.mdl-cell{
+	margin: 8px;
+	width: calc(33.3333333333%-16px)
+}
+.mdl-cell{
+	box-sizing: border-box;
+}
+.mdl-shadow--4dp{
+	box-shadow:  0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+
+}
+.mdl-card{
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+-webkit-flex-direction: column;
+-ms-flex-direction: column;
+flex-direction: column;
+font-size: 16px;
+font-weight: 400;
+min-height: 200px;
+overflow: hidden;
+width: 760px;
+z-index: 1;
+position: relative;
+background: rgb(255,255,255);
+border-radius: 2px;
+box-sizing: border-box;
+}
+
+.mdl-color-text--grey-700 {
+    color: rgb(97,97,97) !important;
+}
+p{
+	font-family: sans-serif;
+	color:grey;
+}
+html,body{
+	background-color: rgb(0,128,128);
+}
+.css-bold{
+	font-weight: bold;
+	display: inline;
+	font-size: 36px;
+	word-break: break-word;
+	line-height: normal;
+	margin: 0 10px 10px 0;
+}
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    border-top: 0;
+    border-bottom: 1px solid #b6b6b6;
+    margin-bottom: 20px;
+}
+.css-l2{
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	font: 14px Arial;
+}
+h3{
+	display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color:grey;
+    font-style: italic;
+}
+
+.css-1jzk4d9{
+    font-size: 36px;
+    margin: 0 10px 10px 0;
+}
+
+.css-1jzk4d9 {
+    font-weight: bold;
+    word-break: break-word;
+    display: inline;
+    margin: 0 10px 10px 0;
+    line-height: normal;
+    font-size: 49px;
+}
+h1{
+	color: grey;
+}
+.navbar{
+	width: 115%;
+	height: 70px;
+
+}
+
