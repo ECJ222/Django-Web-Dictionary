@@ -1,1 +1,1 @@
-# Django-Web-Dictionar
+# Django-Web-Dictionary
